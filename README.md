@@ -1,7 +1,7 @@
 # WalletHubTest
 
 Run jar file
-  java -cp "parser-1.0-SNAPSHOT.jar" com.ef.Parser "2017-01-01 13:00:00.000" "hourly" "100"
+  java -cp "parser.jar" com.ef.Parser "2017-01-01 13:00:00.000" "hourly" "100"
 
 Please note each run database will be truncated
 MySql credentials is here "persistence.properties" , you new have the same to run app successfully.
